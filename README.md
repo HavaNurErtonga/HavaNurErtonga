@@ -14,3 +14,7 @@ I build backend & fullstack projects for bootcamps and practice AI-assisted deve
 - **Task Manager API (Node.js + Express + PostgreSQL)**  
   CRUD operations, authentication, clean API structure  
   👉 https://github.com/HavaNurErtonga/görev-yöneticisi-api
+## Current Focus
+- Completing Patika.dev Java Fundamentals Path
+- Building AI-assisted fullstack projects
+- Improving backend architecture and API design skills
