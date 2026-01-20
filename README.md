@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hava Nur Ertonga
 
-<!--
-**HavaNurErtonga/HavaNurErtonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst → Backend Developer (in progress)  
+I build backend & fullstack projects for bootcamps and practice AI-assisted development.
 
-Here are some ideas to get you started:
+## Skills
+- Backend: Node.js, Express, REST APIs, JWT Authentication
+- Database: PostgreSQL, SQL
+- Learning: Java Fundamentals (Patika.dev)
+- Tools: Git, GitHub, Postman, VS Code
+- AI tools: ChatGPT, GitHub Copilot, Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Task Manager API (Node.js + Express + PostgreSQL)**  
+  CRUD operations, authentication, clean API structure  
+  👉 https://github.com/HavaNurErtonga/görev-yöneticisi-api
